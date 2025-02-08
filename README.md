@@ -1,6 +1,6 @@
 # RAG-System-with-PDF-Integration
 
-This project implements a Retrieval-Augmented Generation (RAG) system with a conversational interface using Streamlit. Users can upload PDF documents, interact with their content through a chat interface, and maintain a history of the conversation.
+This project implements a Retrieval-Augmented Generation (RAG) system with a conversational interface using Streamlit. Users can upload PDF documents, interact with their content through a chat interface.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ This project relies on several Python libraries, which are listed in the `requir
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/vamsi8106/RAG-System-with-PDF-Integration-and-Chat-History.git
+   git clone https://github.com/vamsi8106/Document-Chat.git
 2. **Create and Activate a Conda Environment**
 
    ```bash
