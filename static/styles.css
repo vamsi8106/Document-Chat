@@ -1,0 +1,49 @@
+body {
+    background-color: #0E1117;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header h1, header h2 {
+    color: #00FFAA;
+}
+
+.upload-section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #1E1E1E;
+    border: 1px solid #3A3A3A;
+    border-radius: 5px;
+}
+
+.chat-section {
+    margin: 20px;
+    padding: 15px;
+}
+
+#user-input {
+    width: 60%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #3A3A3A;
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+}
+
+#submit-btn {
+    background-color: #00FFAA;
+    color: #000000;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.response-section {
+    margin: 20px;
+    padding: 15px;
+    background-color: #2A2A2A;
+    border: 1px solid #404040;
+    border-radius: 10px;
+}
